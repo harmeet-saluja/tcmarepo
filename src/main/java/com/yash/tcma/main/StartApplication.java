@@ -13,6 +13,7 @@ public class StartApplication {
 		registrationForm.setTitle("User Registration");
 		registrationForm.setSize(350, 200);
 		registrationForm.setVisible(true);
+		System.out.println(registrationForm);
 
 	}
 
